@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\bin\Debug\net8.0\Corero.exe
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\bin\Debug\net8.0\Corero.deps.json
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\bin\Debug\net8.0\Corero.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\bin\Debug\net8.0\Corero.dll
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\bin\Debug\net8.0\Corero.pdb
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.dll
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\refint\Corero.dll
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.pdb
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\Corero.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\c#\Corero\Corero\obj\Debug\net8.0\ref\Corero.dll
